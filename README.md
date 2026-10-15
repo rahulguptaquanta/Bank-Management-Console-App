@@ -54,6 +54,3 @@ A beginner-friendly, menu-driven Java mini project for **Week 1 – Java Fundame
 5. Select `4` to view the transaction history.
 6. Try withdrawing more than the available balance to test validation.
 7. Select `6` to exit.
-
-## Important note
-This is an educational console project. It stores data only while the program is running. It is **not** connected to a real bank, database, or payment system.
